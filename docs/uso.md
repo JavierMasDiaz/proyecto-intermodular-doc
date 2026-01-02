@@ -11,4 +11,4 @@
 - Consultar disponibilidad
 
 ## Capturas
-![Pantalla principal](../img/home.png)
+![Pantalla principal](img/home.png)
