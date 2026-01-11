@@ -1,3 +1,8 @@
+---
+title: Instalación
+nav_order: 3
+---
+
 # Instalación
 
 ## Requisitos
