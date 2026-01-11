@@ -1,3 +1,8 @@
+---
+title: Uso
+nav_order: 4
+---
+
 # Uso de la aplicación
 
 ## Usuarios tipo
