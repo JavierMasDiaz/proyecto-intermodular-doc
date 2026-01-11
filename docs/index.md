@@ -3,7 +3,7 @@ layout: default
 title: Documentación del Proyecto Intermodular
 ---
 
-## Índice
+## ÍNDICE
 - [Introducción](introduccion.md)
 - [Instalación](instalacion.md)
 - [Uso](uso.md)
