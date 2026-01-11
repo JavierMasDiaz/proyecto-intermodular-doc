@@ -12,8 +12,9 @@ nav_order: 5
 La aplicación sigue una arquitectura cliente-servidor basada en MVC.
 
 ## Tecnologías empleadas
-| Capa | Tecnología |
-|-----|-----------|
-| Frontend | HTML, CSS, JS |
-| Backend | PHP |
-| Base de datos | MySQL |
+
+| Capa         | Tecnología        |
+|--------------|-------------------|
+| Frontend     | HTML, CSS, JS     |
+| Backend      | PHP               |
+| Base de datos| MySQL             |
