@@ -1,3 +1,8 @@
+---
+title: Arquitectura
+nav_order: 5
+---
+
 # Arquitectura
 
 ## Diagrama general
