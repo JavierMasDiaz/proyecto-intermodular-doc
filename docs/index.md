@@ -3,8 +3,6 @@ layout: default
 title: Documentación del Proyecto Intermodular
 ---
 
-# Documentación del Proyecto Intermodular
-
 ## Índice
 - [Introducción](introduccion.md)
 - [Instalación](instalacion.md)
