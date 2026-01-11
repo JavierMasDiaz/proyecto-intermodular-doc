@@ -22,6 +22,7 @@ nav_order: 3
 ```bash
 sudo apt update
 sudo apt install apache2 -y
+```
 
 ## Variables de entorno
 - DB_HOST
@@ -29,11 +30,3 @@ sudo apt install apache2 -y
 - DB_PASSWORD
 - DB_NAME
 
-```md
-### Ejemplo de archivo `.env`
-
-```env
-DB_HOST=localhost
-DB_USER=intermodular_user
-DB_PASSWORD=secreta123
-DB_NAME=intermodular_db
