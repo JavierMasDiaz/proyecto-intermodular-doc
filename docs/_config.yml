@@ -1,6 +1,6 @@
 title: Mi proyecto intermodular
 description: Documentación del proyecto intermodular
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 show_downloads: false
